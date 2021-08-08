@@ -1,0 +1,22 @@
+{
+	"number_of_cols" : 17,
+	"col_names" : {
+		"Age": "int64",
+		"Gender": "object",
+		"Polyuria": "object",
+		"Polydipsia": "object",
+		"suddenweightloss": "object",
+		"weakness": "object",
+		"Polyphagia": "object",
+		"Genitalthrush": "object",
+		"visualblurring": "object",
+		"Itching": "object",
+		"Irritability": "object",
+		"delayedhealing": "object",
+		"partialparesis": "object",
+		"musclestiffness": "object",
+		"Alopecia": "object",
+		"Obesity": "object",
+		"class": "object"
+	}
+}
